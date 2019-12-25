@@ -10,6 +10,6 @@ How the Home Looks
 
 Crafted with Love by [Ilemona Achimugu](https://twitter.com/dfiredeveloper)
 
-**Take It**
-**Use It**
+**Take It** - 
+**Use It** - 
 **Human Knowledge Belongs to the World** 👌
