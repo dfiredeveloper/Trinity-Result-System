@@ -4,7 +4,7 @@
 
 
 How the Home Looks
-![Home Page](Screenshot.png)
+![Home Page](screen.gif)
 
 ## Author
 
